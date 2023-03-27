@@ -59,10 +59,18 @@
       outline: none;
       transition: background-color 0.2s ease-in-out;
     }
+
+    .login-2{
+        text-decoration: none;
+        color: inherit;
+    }
   
     .login:hover {
-      background-color: rgb(214, 146, 0);
+      background-color: rgb(240, 164, 0);
     }
+    .login:hover {
+        background-color: rgb(214, 146, 0);
+      }
   }
   
   .btn-container {
